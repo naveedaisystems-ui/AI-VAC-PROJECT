@@ -4,7 +4,7 @@ A Streamlit application that turns the public Our World in Data (OWID) CO₂ dat
 into exploratory questions, interactive visualizations, transparent calculations,
 and a structured, human-checkable data story.
 
-## Run locally
+## Run locallyy
 
 Python 3.12 or later is recommended for the current dependency versions.
 
