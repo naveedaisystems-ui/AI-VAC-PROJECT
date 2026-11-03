@@ -1,0 +1,2 @@
+Source URL: https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
+Retrieved: 2026-11-03

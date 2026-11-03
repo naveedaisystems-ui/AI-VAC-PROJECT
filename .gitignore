@@ -1,0 +1,25 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Test/build/tool output
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+.streamlit/secrets.toml
+
+# Local notes exports and user uploads
+insight_notes_export.txt
+insight_notes_export.csv
+data/insight_notes.csv
+data/uploads/
+
+# Keep the public source and cleaned academic deliverable under version control.
